@@ -1,12 +1,51 @@
-# React + Vite
+# 🐑 Mini LocalStorage Farm CRUD
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React CRUD application for managing animals on a farm using localStorage.  
+Users can add, edit, and delete animals like sheep, ducks, and antelopes, along with their weight.  
+All data is stored in the browser and persists across page reloads.
 
-Currently, two official plugins are available:
+---
+✅ Features:
+ Add animals with weight
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ Edit animal type and weight
 
-## Expanding the ESLint configuration
+ Delete animal from list
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ Data saved in localStorage
+
+ Fully responsive UI with Bootstrap
+
+ Deployed to GitHub Pages
+---
+
+## 🌐 Live Demo
+
+👉 [Click to open the live project](https://rokassturma.github.io/Mini-localstorage-farm/)
+
+---
+
+## 🛠️ Technologies Used
+
+- ⚛️ **React.js** – for UI rendering and component logic
+- 💾 **localStorage** – for storing and persisting animal data
+- 💅 **Bootstrap 5** – for fast and responsive design
+- ⚡ **Vite** – for fast development and build process
+- 🚀 **GitHub Pages** – for hosting the live site
+
+---
+## 🚀 Run the project locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/rokassturma/Mini-localstorage-farm.git
+cd Mini-localstorage-farm
+
+npm install
+
+npm run dev
+
+
+👨‍💻 Author
+Created with ❤️ by rokassturma
