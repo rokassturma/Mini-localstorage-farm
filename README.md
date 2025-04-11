@@ -37,6 +37,7 @@ All data is stored in the browser and persists across page reloads.
 ## 🚀 Run the project locally
 
 👨‍💻 Author
+
 Created with ❤️ by rokassturma
 
 
